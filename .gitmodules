@@ -1,0 +1,3 @@
+[submodule "scripts/opengl_thirdparty"]
+	path = scripts/opengl_thirdparty
+	url = https://github.com/nielslysenko/opengl_thirdparty.git
